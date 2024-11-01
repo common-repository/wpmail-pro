@@ -1,0 +1,22 @@
+{
+  "admin.js": "admin_js/admin-89177f27.js",
+  "admin.js.map": "admin_js/admin-89177f27.js.map",
+  "runtime.js": "admin_js/runtime-20bab887.js",
+  "runtime.js.map": "admin_js/runtime-20bab887.js.map",
+  "vendors-admin.js": "admin_js/vendors-admin-0fb6b0a0.js",
+  "vendors-admin.js.map": "admin_js/vendors-admin-0fb6b0a0.js.map",
+  "wpackioEp": {
+    "admin": {
+      "js": [
+        "admin_js/runtime-20bab887.js",
+        "admin_js/vendors-admin-0fb6b0a0.js",
+        "admin_js/admin-89177f27.js"
+      ],
+      "js.map": [
+        "admin_js/runtime-20bab887.js.map",
+        "admin_js/vendors-admin-0fb6b0a0.js.map",
+        "admin_js/admin-89177f27.js.map"
+      ]
+    }
+  }
+}
